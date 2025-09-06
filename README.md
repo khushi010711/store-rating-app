@@ -2,9 +2,11 @@
 
 This is a complete web application that allows users to submit and view ratings for stores registered on the platform. It features a robust, role-based access control system for three types of users: System Administrator, Store Owner, and Normal User.
 
-## Live Demo
-*(Optional: If you deploy your application, you can put the link here.)*
-`[Link to your live website]`
+## Live Demo & Project Walkthrough
+
+You can view a complete video demonstration of the project, showcasing all features for the Admin, Store Owner, and Normal User roles by following the link below.
+
+**[View Project Demo Video](https://drive.google.com/file/d/1FNqRrkInc-J5Th52DCvwksMxsA9r0Bdp/view?usp=sharing)**
 
 ## Tech Stack
 - **Backend:** Node.js with Express.js
@@ -107,7 +109,7 @@ After a fresh database setup, you can use the GUI to create the following users 
 ### Normal Users
 1.  **Krishnamurthy Subramanian**
     - **Email:** `user.krishnamurthy@example.com`
-    - **Password:** `UserPass1@`
+    - **Password:** `UserPass1!`
 2.  **Ananyalakshmi Chatterjee**
     - **Email:** `user.ananyalakshmi@example.com`
     - **Password:** `UserPass2!`
